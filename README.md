@@ -20,7 +20,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<code><a href="https://twitter.com/RamanBaliyanJi"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="thakuratul2" width="30" /></a></code>
+<code><a href="https://twitter.com/RamanBaliyanJi"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="RamanBaliyanJi" width="30" /></a></code>
 <code><a href="https://linkedin.com/in/raman-baliyan-a68b94252" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Ramanbaliyan" height="30" width="30" /></a></code>
 <code><a href="https://instagram.com/ramanbaliyanji" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="ramanbaliyanji" height="30" width="30" /></a></code>
 
