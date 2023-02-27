@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamanBaliyan&label=Profile%20views&color=0e75b6&style=flat" alt="RamanBaliyan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/RamanBaliyanJi" target="blank"><img src="https://img.shields.io/twitter/follow/thakuratul_28?logo=twitter&style=for-the-badge" alt="RamanBaliyanJi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RamanBaliyanJi" target="blank"><img src="https://img.shields.io/twitter/follow/RamanBaliyanJi?logo=twitter&style=for-the-badge" alt="RamanBaliyanJi" /></a> </p>
 
 - 🔭 I’m currently working on my backend skills and apparently working on different projects.
 
